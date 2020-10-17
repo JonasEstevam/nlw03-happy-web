@@ -14,7 +14,7 @@ function Landing() {
 				<img src={LogoImg} alt='' />
 
 				<main>
-					<h1> Lever felicidade para o mundo</h1>
+					<h1> Leve felicidade para o mundo</h1>
 					<p>Visite orfanatos e mude o dia de muitas crianças.</p>
 				</main>
 
